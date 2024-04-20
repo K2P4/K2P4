@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Phy Thura (KP)
+- 👀 I’m interested in Playing Football, Playing Football Games and Coding 
+- 🌱 I’m currently learning Ract, Figma and Php Laravel
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: (KP) ...
+- I am currently working in Yoma Bank with BDS Operation position , in the future if I have a chance to join  developer position ,I must be join so if you need me I will help you 
+
+
