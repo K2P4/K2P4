@@ -16,13 +16,13 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/phyothura21" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/YOUR-LINK" target="_blank">
+  <a href="https://www.facebook.com/share/18CGXRFNV4" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/YOUR-LINK" target="_blank">
+  <a href="https://www.instagram.com/vik83124?igsh=MWdtMmphc3hodjBucg%3D%3D&utm_source=qr" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
