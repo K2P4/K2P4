@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkar88&layout=compact&theme=tokyonight" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=arkar88&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KP24&layout=compact&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KP24&show_icons=true&theme=tokyonight" />
 </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
@@ -57,5 +57,5 @@
 
 ### ⚡ GitHub Activity Graph
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arkar88&theme=react-dark" />
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KP24&theme=react-dark" />
 </a>
