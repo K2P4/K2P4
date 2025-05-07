@@ -15,17 +15,20 @@
 ---
 
 ### 🌐 Connect with Me
+
+
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/phyothura21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/phyothura21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/share/18CGXRFNV4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/vik83124?igsh=MWdtMmphc3hodjBucg%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
@@ -57,7 +60,3 @@
 
 ---
 
-### ⚡ GitHub Activity Graph
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=K2P4&theme=react-dark" />
-</a>
