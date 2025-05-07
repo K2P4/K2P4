@@ -37,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
@@ -47,10 +46,12 @@
 
 ---
 
+
+
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KP24&layout=compact&theme=tokyonight" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KP24&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2P4&layout=compact&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=K2P4&show_icons=true&theme=tokyonight" />
 </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
@@ -58,5 +59,5 @@
 
 ### ⚡ GitHub Activity Graph
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KP24&theme=react-dark" />
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=K2P4&theme=react-dark" />
 </a>
