@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#0e75b6">Phyo Thura (KP)</span></h1>
-<h3 align="center">🚀 Junior Developer | Tech Enthusiast | Lifelong Learner from Myanmar</h3>
+<h3 align="center">🚀 Junior Developer from Myanmar</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KP24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
