@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Phyo Thura(KP)</h1>
-<h3 align="center">🚀 A passionate junior developer from Myanmar</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#0e75b6">Phyo Thura (KP)</span></h1>
+<h3 align="center">🚀 Junior Developer | Tech Enthusiast | Lifelong Learner from Myanmar</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KP24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -7,30 +7,33 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently learning **React**, **Node.js**, and **Vue.js**  
-- 💬 Ask me about **React**, **Node.js**, and **Laravel**  
-- 📫 Reach me at: **pthuya381@gmail.com**
+## 🧠 About Me
+
+- 🔭 I’m currently diving deeper into:
+  - **React.js** ⚛️
+  - **Node.js** 🌐
+  - **Vue.js** 🖖
+- 💡 I’m passionate about building modern, performant web applications.
+- 🌱 Always eager to learn and grow in full-stack development.
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Social Links
 
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/phyothura21" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/share/18CGXRFNV4" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/vik83124?igsh=MWdtMmphc3hodjBucg%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-
 ---
+
 
 ### 🛠️ Languages & Tools
 <p align="left">
