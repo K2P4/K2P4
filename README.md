@@ -44,16 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
----
 
 
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2P4&layout=compact&theme=tokyonight" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=K2P4&show_icons=true&theme=tokyonight" />
-</p>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
----
 
