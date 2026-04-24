@@ -1,45 +1,43 @@
 <h1 align="center">Phyo Thura (KP)</h1>
-<p align="center">Junior Software Developer</p>
+<p align="center">Junior Developer</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phyothura&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## About Me
+## About
 
-- Currently learning and building with **Node.js** and **Next.js**
-- Interested in modern, scalable web applications
-- Continuously improving full-stack development skills
+- Working with **Node.js**, **Next.js**
+- Building modern web apps
+- Learning full-stack
 
 ---
 
 ## Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React, Next.js
-- Tailwind CSS, Bootstrap
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 
-**Backend**
-- Node.js
-- Laravel
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,laravel" />
 
-**Languages**
-- JavaScript
-- TypeScript
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts" />
 
-**Tools & DevOps**
-- Git & GitHub
-- Docker
-- CI/CD (GitHub Actions)
+**DevOps**  
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
 
-**Design**
-- Figma
+**Design**  
+<img src="https://skillicons.dev/icons?i=figma" />
 
 ---
 
-## Connect with Me
+## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/phyothura21" target="_blank">LinkedIn</a> |
-  <a href="https://www.facebook.com/share/18CGXRFNV4" target="_blank">Facebook</a> |
-  <a href="https://www.instagram.com/vik83124" target="_blank">Instagram</a>
+<p>
+  <a href="https://www.linkedin.com/in/phyothura21">LinkedIn</a> •
+  <a href="https://www.facebook.com/share/18CGXRFNV4">Facebook</a> •
+  <a href="https://www.instagram.com/vik83124">Instagram</a>
 </p>
