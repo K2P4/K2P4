@@ -1,7 +1,5 @@
 # Phyo Thura (KP)
-### Junior Full-Stack Software Developer
-
-<i>Building scalable web solutions with modern technologies.</i>
+## Junior Full-Stack Software Developer
 
 ### 🧠 About Me
 
@@ -10,7 +8,7 @@
 - 💡 Always eager to learn, contribute to open source, and grow as a full-stack developer.
 - 🌱 Currently focusing on <b>TypeScript</b>, <b>Docker</b>, and <b>CI/CD</b> workflows.
 
-### 🛠 Tech Stack
+### 🛠 Tech Stacks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 10px;" alt="HTML5" />
@@ -30,16 +28,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/phyothura21" target="_blank">
+  <a href="https://www.linkedin.com/in/phyothura21" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.facebook.com/share/18CGXRFNV4" target="_blank">
+  <a href="https://www.facebook.com/share/18CGXRFNV4" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-right: 10px;"/>
   </a>
-  <a href="https://t.me/KP_Vv" target="_blank">
+  <a href="https://t.me/KP_Vv" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.instagram.com/vik83124" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
 </p>
