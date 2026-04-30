@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=K2P4&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2P4&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phyothura-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyothura-dev&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 ---
